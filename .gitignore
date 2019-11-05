@@ -1,0 +1,4 @@
+config.php
+*_storage.txt
+tmp/*sql
+tmp/*zip

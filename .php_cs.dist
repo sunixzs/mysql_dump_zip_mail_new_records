@@ -1,0 +1,8 @@
+<?php
+return PhpCsFixer\Config::create()
+    ->setRules([
+        '@Symfony' => true,
+        'array_indentation' => true,
+        'concat_space' => ['spacing' => 'one'],
+        'array_syntax' => ['syntax' => 'short']
+    ]);
